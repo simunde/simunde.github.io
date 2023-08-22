@@ -212,8 +212,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("../img/profilepicture.jpg") top center;
+  height: 30vh; 
+  background: url("../img/images.jpeg") top center;
   background-size: cover;
 }
 
